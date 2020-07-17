@@ -2,13 +2,13 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      subtitle="What's decentralization got to do with it?"
+      image="/uploads/about-hero-cnn.jpg"
     ></site-hero>
-    <main-section theme="sidebar-right">
+    <main-section theme="one-column">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h1>Fake Heading</h1>
           <p>
             <strong>
               Edit this page in<code>/pages/about.vue</code>to fit your needs.
@@ -83,13 +83,6 @@
             </article>
           </div>
         </div>
-      </template>
-
-      <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
-        <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>

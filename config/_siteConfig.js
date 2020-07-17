@@ -10,11 +10,11 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'CarboNight Network',
-  tagline: 'Good night, carbon fright.',
-  featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  tagline: 'Saying good night to athmospheric carbon.',
+  featureImage: '/uploads/home-hero-cnn.jpg',
+  logo: 'logo-cnn.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
-    on: true,
+    on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
@@ -23,26 +23,16 @@ export default {
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: '',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Elements',
       link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
   ],
   hero: {
-    theme: 'dark' // options: mist, light, dark
+    theme: 'light' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -59,20 +49,20 @@ export default {
 
   // Disqus
   disqus: {
-    on: true,
+    on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
     siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
-      on: true,
+      on: false,
       formAction:
         'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },

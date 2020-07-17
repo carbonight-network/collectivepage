@@ -11,14 +11,19 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-        <!-- All Posts -->
-        <posts-grid />
+        <!-- All Posts
+        <posts-grid /> -->
       </template>
       <template v-slot:sidebar>
         Nothing here
       </template>
     </main-section>
     <news-letter-form-modal />
+    <footer class="footer-section">
+      <div>
+        <font-awesome-icon :icon="['fab', 'vuejs']" color="mediumseagreen" />
+      </div>
+    </footer>
   </div>
 </template>
 

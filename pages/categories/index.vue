@@ -1,6 +1,10 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="https://picsum.photos/1800/1801" />
+    <site-hero
+      title="Elements of Climate Cybernetics"
+      subtitle="The basis vectors for engineering a climate economy"
+      image="https://picsum.photos/1800/1801"
+    />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>

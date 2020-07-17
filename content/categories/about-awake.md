@@ -1,5 +1,5 @@
 ---
-name: About Awake
-image: /logo.svg
+name: Carbondioxide as a resource
+image: /logo-cnn.png
 ---
-All about the Awake Nuxt Template
+About CO2 as a resource to be mined
