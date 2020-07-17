@@ -25,7 +25,7 @@ Awake is a Nuxt.js template for generating a beautifully robust static site with
 
 Simply click the "Deploy to Netlify" button and then configure it to fit your needs as described below.
 
-[![Deploy to Netlify!!](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielkellyio/awake-template)
+[![Deploy to Netlify!!](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Dawgkellyio/awake-template)
 
 # Configuration
 
@@ -48,4 +48,4 @@ Since all content is store in the git repo with Netlify CMS, local development i
 
 # Having Issues?
 
-If you're having any issues feel free to reach out to me on twitter [@danielkelly.io](https://twitter.com/danielkelly_io) or report an issue in [github repo](https://github.com/danielkellyio/awake-template).
+If you're having any issues feel free to reach out to me on twitter [@Dawgkelly.io](https://twitter.com/Dawgkelly_io) or report an issue in [github repo](https://github.com/Dawgkellyio/awake-template).

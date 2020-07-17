@@ -3,7 +3,7 @@ title: Post Markup And Formatting
 subtitle: All the Tags You Need to Make Clean and Expressive Posts
 category:
   - About Awake
-author: Daniel Kelly
+author: Dawg Kelly
 date: 2019-07-04T03:02:00.000Z
 featureImage: /uploads/markup-hero.jpg
 ---
@@ -117,11 +117,11 @@ Right aligned columns
 
 ## Links
 
-[link text](https://danielkelly.io)
+[link text](https://Dawgkelly.io)
 
-[link with title](https://danielkelly.io "title text!")
+[link with title](https://Dawgkelly.io "title text!")
 
-Autoconverted link https://danielkelly.io
+Autoconverted link https://Dawgkelly.io
 
 ## Images
 

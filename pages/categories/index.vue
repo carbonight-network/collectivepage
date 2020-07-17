@@ -3,7 +3,7 @@
     <site-hero
       title="Elements of Climate Cybernetics"
       subtitle="The basis vectors for engineering a climate economy"
-      image="https://picsum.photos/1800/1801"
+      image="/logo-cnn.png"
     />
     <main-section theme="one-column">
       <categories-grid />

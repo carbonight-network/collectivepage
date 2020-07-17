@@ -1,5 +1,5 @@
 ---
-name: About CarboNight
-image: /logo-cnn.png
+name: Carbondioxide as a resource
+image: https://picsum.photos/1800/1801
 ---
-All about CNN
+Blockchain, meet glyceride chain. Be nice to one another!

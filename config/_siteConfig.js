@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'CarboNight Network',
-  tagline: 'Saying good night to athmospheric carbon.',
+  tagline: 'Saying good night to atmospheric carbon.',
   featureImage: '/uploads/home-hero-cnn.jpg',
   logo: 'logo-cnn.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -51,7 +51,7 @@ export default {
   disqus: {
     on: false,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'blog-Dawgkelly-io' // 'blog-Dawgkelly-io'
   },
 
   // Newsletter Subscribe
@@ -64,7 +64,7 @@ export default {
     mailchimp: {
       on: false,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://Dawgkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
     custom: {
       on: false,
