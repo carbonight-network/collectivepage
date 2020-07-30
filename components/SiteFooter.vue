@@ -10,7 +10,13 @@
 
 <script>
 export default {
-  name: 'SiteFooter'
+  name: 'SiteFooter',
+  mounted() {
+    let hubspotscript = document.createElement('script')
+    hubspotscript.setAttribute('src', '//js.hs-scripts.com/8194032.js')
+    hubspotscript.setAttribute('id', 'hs-script-loader')
+    hubspotscript.setAttribute('defer', '')
+  },
 }
 </script>
 
