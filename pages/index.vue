@@ -45,6 +45,12 @@ export default {
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])
   },
+  mounted() {
+    let hubspotscript = document.createElement('script')
+    hubspotscript.setAttribute('src', '//js.hs-scripts.com/8194032.js')
+    hubspotscript.setAttribute('id', 'hs-script-loader')
+    hubspotscript.setAttribute('defer', '')
+  },
   fetch({ store, params }) {
     setPageData(store, { slug: 'home' })
   }
