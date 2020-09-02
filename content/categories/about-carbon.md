@@ -1,5 +1,6 @@
 ---
 name: Carbondioxide as a resource
-image: https://picsum.photos/1800/1801
+image: /uploads/carbonplane.jpg
+description: CO2 is often ...
 ---
 Blockchain, meet glyceride chain. Be nice to one another!
