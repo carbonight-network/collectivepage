@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'CarboNight Network',
-  tagline: 'Saying good night to atmospheric carbon.',
+  tagline: 'The global initative to create interoperable carbon-sinks across platforms and jurisdictions.',
   featureImage: '/uploads/home-hero-cnn.jpg',
   logo: 'logo-cnn.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
